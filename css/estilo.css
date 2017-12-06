@@ -10,3 +10,8 @@ body h1{
 .parrafo{
   color: orange;
 }
+
+#contenido {
+  width: 900px;
+  margin:auto;
+}
